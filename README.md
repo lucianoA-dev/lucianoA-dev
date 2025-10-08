@@ -42,7 +42,3 @@
 - 🗣️ Native **Spanish**, advanced **English**  
 - 🌱 Lifelong learner. Interested in everything from testing to software development  
 - 💬 Always open to collaboration or advice  
-
----
-
-> *Code roots. Eternal growth.*
