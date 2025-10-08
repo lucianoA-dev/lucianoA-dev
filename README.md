@@ -42,7 +42,6 @@
 - 🗣️ Native **Spanish**, advanced **English**  
 - 🌱 Lifelong learner. Interested in everything from testing to software development  
 - 💬 Always open to collaboration or advice  
-- 🎯 Detail-oriented and perfectionist, passionate about clean code, quality, and best practices
 
 ---
 
