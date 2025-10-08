@@ -39,7 +39,7 @@
 ## About Me
 
 - 🇦🇷 Based in **Argentina**  
-- 🌱 Constant learner – interested in everything from testing to clean architecture  
+- 🌱 Lifelong learner. Interested in everything from testing to clean architecture  
 - 💬 Always open to collaboration or advice  
 
 ---
