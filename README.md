@@ -15,7 +15,7 @@ Passionate about clean code, best practices, and software quality.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat&logo=playwright&logoColor=#ffffff)
+[![Playwright](https://playwright.dev/img/playwright-logo.svg)](https://playwright.dev)
 
 ---
 
