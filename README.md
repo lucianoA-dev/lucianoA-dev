@@ -8,7 +8,7 @@ Passionate about clean code, best practices, and software quality.
 
 - [LinkedIn](https://www.linkedin.com/in/lucianoa-dev/)
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
