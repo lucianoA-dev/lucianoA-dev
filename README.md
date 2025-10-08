@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Luciano Alvarez
+# Hi, I'm Luciano Alvarez
 
-💻 QA Engineer currently studying a university technical degree in Programming, aiming to move into Development or Test Automation.  
-🔧 Working with C++, C#, and .NET  
-🎯 Passionate about clean code, best practices, and software quality.
+QA Engineer currently studying a university technical degree in Programming, aiming to move into Development or Test Automation.  
+Working with C++, C#, and .NET  
+Passionate about clean code, best practices, and software quality.
 
 ## 📫 Connect with me
 
