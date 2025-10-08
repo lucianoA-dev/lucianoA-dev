@@ -38,8 +38,10 @@
 ## About Me
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20"/> Based in **Argentina**  
+- 🗣️ Native **Spanish**, advanced **English**  
 - 🌱 Lifelong learner. Interested in everything from testing to clean architecture  
-- 💬 Always open to collaboration or advice  
+- 💬 Always open to collaboration or advice
+
 
 ---
 
