@@ -1,8 +1,9 @@
 # Hi, I'm Luciano Alvarez
 
-- **QA Manual tester** currently studying a university technical degree in Programming.    
+- **QA Manual tester** currently studying a university technical degree in Programming.  
 - Currently working with **C++**  
 - Passionate about **clean code**, **best practices**, and **software quality**  
+- Detail-oriented and perfectionist, I enjoy working in well-structured, organized environments where precision matters  
 - Aiming to move into **Development** or **Test Automation**
 
 ---
@@ -39,9 +40,9 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20"/> Based in **Argentina**  
 - 🗣️ Native **Spanish**, advanced **English**  
-- 🌱 Lifelong learner. Interested in everything from testing to software development 
-- 💬 Always open to collaboration or advice
-
+- 🌱 Lifelong learner. Interested in everything from testing to software development  
+- 💬 Always open to collaboration or advice  
+- 🎯 Detail-oriented and perfectionist, passionate about clean code, quality, and best practices
 
 ---
 
