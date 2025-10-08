@@ -3,7 +3,7 @@
 - **QA Engineer** currently studying a university technical degree in Programming.    
 - Currently working with **C++**, **C#**, and **.NET**  
 - Passionate about **clean code**, **best practices**, and **software quality**  
-- 🚀 Aiming to move into **Development** or **Test Automation**
+- Aiming to move into **Development** or **Test Automation**
 
 ---
 
