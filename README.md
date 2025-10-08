@@ -37,7 +37,7 @@
 
 ## About Me
 
-- 🇦🇷 Based in **Argentina**  
+- ![Bandera de Argentina](https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg) Based in **Argentina**  
 - 🌱 Lifelong learner. Interested in everything from testing to clean architecture  
 - 💬 Always open to collaboration or advice  
 
