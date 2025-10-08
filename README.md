@@ -1,7 +1,7 @@
 # Hi, I'm Luciano Alvarez
 
 - **QA Manual tester** currently studying a university technical degree in Programming.  
-- Currently working with **C++**  
+- Experienced with **C++**
 - Passionate about **clean code**, **best practices**, and **software quality**  
 - Detail-oriented and perfectionist, I enjoy working in well-structured, organized environments where precision matters  
 - Aiming to move into **Development** or **Test Automation**
