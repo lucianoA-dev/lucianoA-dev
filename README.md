@@ -1,6 +1,6 @@
 # Hi, I'm Luciano Alvarez
 
-- **QA Engineer** currently studying a university technical degree in Programming.    
+- **QA Manual tester** currently studying a university technical degree in Programming.    
 - Currently working with **C++**, **C#**, and **.NET**  
 - Passionate about **clean code**, **best practices**, and **software quality**  
 - Aiming to move into **Development** or **Test Automation**
