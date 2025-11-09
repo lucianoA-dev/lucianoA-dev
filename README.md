@@ -20,7 +20,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![CLI](https://img.shields.io/badge/Zsh-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat&logo=playwright&logoColor=white)
 
 ---
