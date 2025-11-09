@@ -20,12 +20,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-121011?style=flat&logo=gnometerminal&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-121011?style=flat&logo=gnometerminal&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-121011?style=flat&logo=gnu-bash&logoColor=white)
+![CLI](https://img.shields.io/badge/Zsh-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-20232A?style=flat&logo=playwright&logoColor=white)
 
 ---
