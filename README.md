@@ -22,18 +22,6 @@
 
 ---
 
-## Current Projects & Focus
-
-- Practicing algorithms and data structures  
-- Exploring best practices in software design and maintainability  
-- Studying key concepts at university:
-  - File handling and serialization
-  - Web services and REST APIs
-  - Object-Oriented Programming (OOP)
-  - Class design and architecture
-
----
-
 ## About Me
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Argentina" width="20"/> Based in **Argentina**  
